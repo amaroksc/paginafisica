@@ -1,7 +1,6 @@
 {
     "hosting": {
       "site": "lunitagrafica-14e7d",
-      "public": "public",
-      ...
+      "public": "public"
     }
   }
